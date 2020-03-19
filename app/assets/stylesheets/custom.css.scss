@@ -65,7 +65,7 @@ $navbar-default-bg: #f9f3ff;
 }
 
 .article-actions {
-  border-top: 1px solid #ff4683;
+  border-top: 1px solid #c8cabf;
   padding-top: 15px;
 }
 
@@ -79,9 +79,9 @@ $navbar-default-bg: #f9f3ff;
   font-weight: bold;
 }
 
-.btn-success:hover, .btn-success:active, .btn-success:focus  {
-  background-color: #ff4683!important;
-  border: 1px solid #ff4683!important;
+.btn-success:hover, .btn-success:active, .btn-success:focus {
+  background-color: #ff4683 !important;
+  border: 1px solid #ff4683 !important;
 }
 
 .btn-primary {
@@ -100,6 +100,25 @@ $navbar-default-bg: #f9f3ff;
 .btn-danger {
   background-color: #c9302c;
   font-weight: bold;
+}
+
+.brand-color {
+  color: #ff4683;
+}
+
+.article-title {
+  font-weight: bold;
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+
+.article-title a {
+  color: #ff4683;
+}
+
+.article-body {
+  border-top: 1px solid #c8cabf;
+  padding: 10px 0;
 }
 
 footer {
