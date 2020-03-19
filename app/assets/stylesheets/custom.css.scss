@@ -48,17 +48,6 @@ $navbar-default-bg: #f9f3ff;
   border: 1px solid #ff4683;
 }
 
-.btn-create {
-  background: #ff4683;
-  color: #fff;
-  border: 1px solid #ff4683;
-  font-weight: bold;
-}
-
-.btn-create:hover {
-  background: #ff4683;
-}
-
 .create-edit-article {
   color: #ff4683;
   margin-bottom: 30px;
@@ -71,35 +60,6 @@ $navbar-default-bg: #f9f3ff;
 
 .well {
   background-color: #f9f3ff;
-}
-
-.btn-success {
-  background-color: #ff4683;
-  border: 1px solid #ff4683;
-  font-weight: bold;
-}
-
-.btn-success:hover, .btn-success:active, .btn-success:focus {
-  background-color: #ff4683 !important;
-  border: 1px solid #ff4683 !important;
-}
-
-.btn-primary {
-  background-color: #fff;
-  color: #ff4683;
-  border: 1px solid #ff4683;
-  font-weight: bold;
-}
-
-.btn-primary:hover, .btn-primary:active, .btn-primary:focus {
-  background-color: #fff;
-  color: #ff4683;
-  border-color: #ff4683;
-}
-
-.btn-danger {
-  background-color: #c9302c;
-  font-weight: bold;
 }
 
 .brand-color {
