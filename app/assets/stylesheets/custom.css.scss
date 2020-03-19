@@ -71,3 +71,19 @@ footer ul {
   float: right;
   list-style: none;
 }
+
+.btn-create {
+  background: #ff4683;
+  color: #fff;
+  border: 1px solid #ff4683;
+  font-weight: bold;
+}
+
+.btn-create:hover {
+  background: #ff4683;
+}
+
+.create-edit-article {
+  color: #ff4683;
+  margin-bottom: 30px;
+}
